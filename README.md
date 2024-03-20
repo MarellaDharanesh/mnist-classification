@@ -111,8 +111,7 @@ print(x_single_prediction)
 
 
 
-
-
+```
 
 ## OUTPUT
 
@@ -133,6 +132,8 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
+![Numbers-1-Black-icon](https://github.com/MarellaDharanesh/mnist-classification/assets/118707669/561f0765-67f6-4d72-ad54-41a5876df7c5)
+
 
 ![image](https://github.com/MarellaDharanesh/mnist-classification/assets/118707669/2250dd0e-4488-46ca-9bff-51b2ae82ff51)
 
